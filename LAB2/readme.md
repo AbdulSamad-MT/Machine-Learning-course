@@ -24,7 +24,7 @@
 The goal of this project is to use clinical measurements to predict the presence and severity of heart disease. By analyzing patient data such as cholesterol levels, blood pressure, and heart rate during exercise, the model learns to distinguish between healthy individuals and those at risk.
 
 ## 2. Jupyter Notebook
-The complete analysis and model code can be found in the **`src`** folder.
+The required notebook can be found in the **`src`** folder.
 
 ## 3. Methodology Diagram
 ![Methodology Diagram](./Methodology%20Diagram.jpg)
